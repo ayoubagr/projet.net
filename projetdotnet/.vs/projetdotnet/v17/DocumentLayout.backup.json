@@ -1,0 +1,266 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\models\\gestioncliniquecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\models\\gestioncliniquecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\projetdotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\projetdotnet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\views\\rendezvous\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\views\\rendezvous\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\models\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\models\\rendezvous.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\controllers\\rendezvouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\controllers\\rendezvouscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\models\\facture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\models\\facture.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\controllers\\patientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\controllers\\medecinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\controllers\\medecinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\controllers\\facturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\controllers\\facturescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|c:\\users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\controllers\\administrateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{060A6F26-A5FC-4AAD-9379-F8D66233AC9C}|projetdotnet\\projetdotnet.csproj|solutionrelative:projetdotnet\\controllers\\administrateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "projetdotnet\\ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "projetdotnet\\ScaffoldingReadMe.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-25T08:29:33.904Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "projetdotnet",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\projetdotnet.csproj",
+              "RelativeDocumentMoniker": "projetdotnet\\projetdotnet.csproj",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\projetdotnet.csproj",
+              "RelativeToolTip": "projetdotnet\\projetdotnet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-25T08:25:47.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Views\\RendezVous\\Create.cshtml",
+              "RelativeDocumentMoniker": "projetdotnet\\Views\\RendezVous\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Views\\RendezVous\\Create.cshtml",
+              "RelativeToolTip": "projetdotnet\\Views\\RendezVous\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-22T13:04:12.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RendezVousController.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Controllers\\RendezVousController.cs",
+              "RelativeDocumentMoniker": "projetdotnet\\Controllers\\RendezVousController.cs",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Controllers\\RendezVousController.cs",
+              "RelativeToolTip": "projetdotnet\\Controllers\\RendezVousController.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAiwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:59:36.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientsController.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Controllers\\PatientsController.cs",
+              "RelativeDocumentMoniker": "projetdotnet\\Controllers\\PatientsController.cs",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Controllers\\PatientsController.cs",
+              "RelativeToolTip": "projetdotnet\\Controllers\\PatientsController.cs",
+              "ViewState": "AgIAAH8AAAAAAAAAAAAkwKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:58:07.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\appsettings.json",
+              "RelativeDocumentMoniker": "projetdotnet\\appsettings.json",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\appsettings.json",
+              "RelativeToolTip": "projetdotnet\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T12:55:51.283Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Program.cs",
+              "RelativeDocumentMoniker": "projetdotnet\\Program.cs",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Program.cs",
+              "RelativeToolTip": "projetdotnet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:55:22.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GestionCliniqueContext.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Models\\GestionCliniqueContext.cs",
+              "RelativeDocumentMoniker": "projetdotnet\\Models\\GestionCliniqueContext.cs",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Models\\GestionCliniqueContext.cs",
+              "RelativeToolTip": "projetdotnet\\Models\\GestionCliniqueContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:55:13.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "RendezVous.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Models\\RendezVous.cs",
+              "RelativeDocumentMoniker": "projetdotnet\\Models\\RendezVous.cs",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Models\\RendezVous.cs",
+              "RelativeToolTip": "projetdotnet\\Models\\RendezVous.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:02:40.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "projetdotnet\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Models\\Patient.cs",
+              "RelativeToolTip": "projetdotnet\\Models\\Patient.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:03:31.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Medecin.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Models\\Medecin.cs",
+              "RelativeDocumentMoniker": "projetdotnet\\Models\\Medecin.cs",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Models\\Medecin.cs",
+              "RelativeToolTip": "projetdotnet\\Models\\Medecin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:04:13.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Facture.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Models\\Facture.cs",
+              "RelativeDocumentMoniker": "projetdotnet\\Models\\Facture.cs",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Models\\Facture.cs",
+              "RelativeToolTip": "projetdotnet\\Models\\Facture.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-25T08:04:26.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MedecinsController.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Controllers\\MedecinsController.cs",
+              "RelativeDocumentMoniker": "projetdotnet\\Controllers\\MedecinsController.cs",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Controllers\\MedecinsController.cs",
+              "RelativeToolTip": "projetdotnet\\Controllers\\MedecinsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:57:36.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FacturesController.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Controllers\\FacturesController.cs",
+              "RelativeDocumentMoniker": "projetdotnet\\Controllers\\FacturesController.cs",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Controllers\\FacturesController.cs",
+              "RelativeToolTip": "projetdotnet\\Controllers\\FacturesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:57:11.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdministrateursController.cs",
+              "DocumentMoniker": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Controllers\\AdministrateursController.cs",
+              "RelativeDocumentMoniker": "projetdotnet\\Controllers\\AdministrateursController.cs",
+              "ToolTip": "C:\\Users\\hassa\\source\\repos\\projetdotnet\\projetdotnet\\Controllers\\AdministrateursController.cs",
+              "RelativeToolTip": "projetdotnet\\Controllers\\AdministrateursController.cs",
+              "ViewState": "AgIAAHoAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T12:56:31.922Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
